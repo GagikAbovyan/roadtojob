@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_color">#f40b14</color>
+    <color name="card_view_background_color">#7998b1</color>
+    <color name="in_search_color">#36ea22</color>
+    <color name="beloved_color">#06c3f2</color>
+    <color name="married_color">#ff0a12</color>
+    <color name="bacground_color">#e5e7f1</color>
+    <color name="bacground_chat_color">#0c3bff</color>
+</resources>
